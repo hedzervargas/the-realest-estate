@@ -15,15 +15,13 @@
     </p>
     <h2>Design and Development</h2>
     <div class="contact">
-      <!-- <img
-        src="../assets/Frontend_Internship_Test_Slices/img_logo_dtt.png"
-        alt=""
-      /> -->
       <img src="../assets/logo2.png" alt="" />
       <div>
-        <p>By The Realest Estate</p>
-        <a href="https://www.therealestestate.com" target="_blank"
-          >www.therealestestate.com</a
+        <p>Github repository:</p>
+        <a
+          href="https://github.com/hedzervargas/the-realest-estate"
+          target="_blank"
+          >https://github.com/hedzervargas/the-realest-estate</a
         >
       </div>
     </div>
@@ -58,6 +56,7 @@ p {
 .contact div {
   display: flex;
   flex-direction: column;
+  gap: 0.2rem;
 }
 .contact div p {
   margin: 0;
